@@ -1,6 +1,6 @@
 ### 🤙🏻 Olá! Me chamo Davi.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-brandão-de-jesus-272879249/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi.dbj/)[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:@davi3388@outlook.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-brandão-de-jesus-272879249/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi.dbj/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:@davi3388@outlook.com) 
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandaodavi&show_icons=true&theme=tokyonight)ㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandaodavi&layout=donut)](https://github.com/brandaodavi/github-readme-stats)
 
